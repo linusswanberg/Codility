@@ -1,0 +1,6 @@
+C:\Development\Codility\Codility\bin\Debug\Codility.exe.config
+C:\Development\Codility\Codility\bin\Debug\Codility.exe
+C:\Development\Codility\Codility\bin\Debug\Codility.pdb
+C:\Development\Codility\Codility\obj\Debug\Codility - Skyline.csprojResolveAssemblyReference.cache
+C:\Development\Codility\Codility\obj\Debug\Codility.exe
+C:\Development\Codility\Codility\obj\Debug\Codility.pdb

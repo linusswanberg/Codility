@@ -1,0 +1,6 @@
+C:\Development\Codility\Codility - Phonebill\bin\Debug\Codility - Phonebill.exe.config
+C:\Development\Codility\Codility - Phonebill\bin\Debug\Codility - Phonebill.exe
+C:\Development\Codility\Codility - Phonebill\bin\Debug\Codility - Phonebill.pdb
+C:\Development\Codility\Codility - Phonebill\obj\Debug\Codility - Phonebill.csprojResolveAssemblyReference.cache
+C:\Development\Codility\Codility - Phonebill\obj\Debug\Codility - Phonebill.exe
+C:\Development\Codility\Codility - Phonebill\obj\Debug\Codility - Phonebill.pdb

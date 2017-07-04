@@ -1,0 +1,8 @@
+Your room is being decorated. On the largest wall you would like to paint a skyline. The skyline consists of rectangular buildings arranged in a line. The buildings are all of the same width, but they may have different heights. The skyline shape is given as an array whose elements specify the heights.
+You would like to paint the skyline using continuous horizontal brushstrokes. Every horizontal stroke is one unit high and arbitrarily wide. The goal is to calculate the minimum number of horizontal strokes needed. 
+Write a function that, given a non-empty zero-indexed array consisting of integers, that returns the minimum number of horizontal brushstrokes needed to paint the shape represented by the array. 
+The function should return-1 if the number of strokes exceeds 1,000,000,000.
+Assume that: 
+N is an integer within the range (1...100,000) 
+Each element of array A is an integer within the range 1.1,000,000,000). 
+Complexity: expected worst-case time complexity is O(N).
